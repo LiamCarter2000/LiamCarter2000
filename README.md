@@ -1,3 +1,3 @@
 - Hi I'm Liam Carter
-- Currently a student at SDSU
-- blah blah blah :)
+- Recent CS graduate with Math minor 
+- I enjoy doing security stuff but AI is cool too
