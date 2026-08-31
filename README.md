@@ -1,3 +1,5 @@
-- Hi I'm Liam Carter
-- Recent CS graduate with Math minor 
-- I enjoy doing security stuff but AI is cool too
+- Hi I'm Liam Carter.
+- I am a current MSIS student at Cal Poly Pomona.
+- I have a BCS w/ Math minor from SDSU.
+- Currently working in a partnership with research professor Dr. Paul Frankel at City of Hope on research for shortening phase 1 oncology trials. (paper to come).
+- I have a great intrest in the computer security field, and am exploring avenues of such as I learn at CPP.
